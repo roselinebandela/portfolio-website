@@ -7,4 +7,4 @@ Personal portfolio of Roseline Bandela. Plain HTML and CSS, no build step.
 - `assets/img`: portrait and the NEURO-VOSTA figure (TRIBE v2 model output)
 - `assets/files`: resume PDF (October 2026)
 
-To update, edit `index.html` and push to `main`. GitHub Pages serves the repository root.
+To update, edit `index.html`, push to `main`, then `git push origin main:gh-pages`. GitHub Pages serves the `gh-pages` branch.
