@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 270" fill="none" stroke="#13213a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+  <!-- sway arcs -->
+  <path d="M58 78 q-18 54 0 112" stroke="#7d9cc7" stroke-dasharray="2 7"/>
+  <path d="M182 78 q18 54 0 112" stroke="#7d9cc7" stroke-dasharray="2 7"/>
+  <path d="M46 132 l-8 -7 m8 7 l-9 6" stroke="#7d9cc7"/>
+  <path d="M194 132 l8 -7 m-8 7 l9 6" stroke="#7d9cc7"/>
+  <!-- hair behind -->
+  <path d="M96 52 q-4 34 2 60 q10 6 22 4 q12 2 22 -4 q6 -26 2 -60 z" fill="#2a3550"/>
+  <!-- head -->
+  <circle cx="120" cy="54" r="22" fill="#f3e3d3"/>
+  <path d="M98 50 q4 -26 24 -26 q20 0 22 24 q-10 -12 -24 -12 q-14 0 -22 14z" fill="#2a3550"/>
+  <!-- VR headset -->
+  <rect x="97" y="46" width="46" height="18" rx="6" fill="#2a5ea8"/>
+  <path d="M143 52 h6" />
+  <!-- neck + torso -->
+  <path d="M120 76 v10"/>
+  <path d="M100 88 q20 -8 40 0 l5 62 q-25 7 -50 0 z" fill="#b6c9e3"/>
+  <!-- arms -->
+  <path d="M101 92 q-12 30 -8 60"/>
+  <path d="M139 92 q12 30 8 60"/>
+  <!-- motion sensor on hip -->
+  <rect x="133" y="136" width="11" height="9" rx="2" fill="#2a5ea8"/>
+  <!-- legs -->
+  <path d="M97 150 l-3 74 h14 l12 -58 l12 58 h14 l-3 -74 z" fill="#2a3550"/>
+  <path d="M92 228 h18 M130 228 h18" stroke-width="5"/>
+  <!-- balance board -->
+  <rect x="64" y="232" width="112" height="13" rx="6" fill="#dfe7f1"/>
+  <path d="M74 245 v8 M166 245 v8" stroke-width="4"/>
+  <path d="M40 256 q40 -3 80 0 t80 0"/>
+</svg>

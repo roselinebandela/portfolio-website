@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 190" fill="none" stroke="#13213a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+  <!-- hurricane glyph -->
+  <circle cx="214" cy="34" r="7" fill="#2a5ea8"/>
+  <path d="M214 27 q-3 -16 15 -18 M214 41 q3 16 -15 18" stroke-width="3"/>
+  <!-- rain -->
+  <path d="M28 20 l-6 12 M48 30 l-6 12 M30 52 l-6 12 M178 70 l-6 12 M236 76 l-6 12" stroke="#7d9cc7"/>
+  <!-- water -->
+  <path d="M0 158 q16 -8 32 0 t32 0 t32 0 t32 0 t32 0 t32 0 t32 0 t32 0 V190 H0z" fill="#cfdcec" stroke="none"/>
+  <path d="M10 170 q10 -6 20 0 t20 0 M120 176 q10 -6 20 0 t20 0 M196 166 q10 -6 20 0" stroke="#2a5ea8"/>
+  <!-- stilts -->
+  <path d="M78 116 v52 M104 116 v52 M150 116 v52 M176 116 v52"/>
+  <path d="M78 140 l26 -18 M150 140 l26 -18" stroke-width="1.6"/>
+  <rect x="66" y="108" width="122" height="9" fill="#9fb4d4"/>
+  <!-- house -->
+  <rect x="76" y="64" width="102" height="44" fill="#f3f5f8"/>
+  <path d="M68 66 L127 28 L186 66 Z" fill="#2a5ea8"/>
+  <rect x="118" y="80" width="17" height="28" fill="#dfe7f1"/>
+  <rect x="88" y="76" width="20" height="18" fill="#dfe7f1"/>
+  <path d="M98 76 v18 M88 85 h20" stroke-width="1.6"/>
+  <!-- clinic sign -->
+  <circle cx="158" cy="85" r="11" fill="#ffffff"/>
+  <path d="M158 79 v12 M152 85 h12" stroke="#c0392b" stroke-width="3.2"/>
+  <!-- stairs -->
+  <path d="M188 117 l22 40 M196 117 l22 40 M192 126 h8 M197 136 h8 M202 146 h8"/>
+</svg>

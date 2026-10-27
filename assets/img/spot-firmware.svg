@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150" fill="none" stroke="#13213a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="10" y="28" width="160" height="96" rx="8" fill="#1f3760"/>
+  <circle cx="24" cy="42" r="4" fill="#f3f5f8"/><circle cx="156" cy="110" r="4" fill="#f3f5f8"/>
+  <path d="M60 60 h-30 v40 M92 70 h22 M92 86 h22 M60 100 v14 h60" stroke="#6f8fbf" stroke-width="2"/>
+  <!-- microcontroller -->
+  <rect x="44" y="56" width="48" height="44" rx="3" fill="#13213a" stroke="#6f8fbf"/>
+  <path d="M50 52 v4 M58 52 v4 M66 52 v4 M74 52 v4 M82 52 v4 M50 100 v4 M58 100 v4 M66 100 v4 M74 100 v4 M82 100 v4" stroke="#c9d6ea" stroke-width="2"/>
+  <circle cx="52" cy="64" r="2" fill="#c9d6ea" stroke="none"/>
+  <!-- optical front end -->
+  <rect x="114" y="62" width="34" height="34" rx="4" fill="#dfe7f1"/>
+  <circle cx="125" cy="79" r="5" fill="#2a5ea8"/>
+  <rect x="133" y="74" width="9" height="10" rx="1" fill="#13213a"/>
+  <!-- light out and back -->
+  <path d="M152 70 q14 -8 22 -2 M152 88 q14 8 22 2" stroke="#7d9cc7" stroke-dasharray="3 5"/>
+  <!-- pulse waveform -->
+  <path d="M180 92 h14 l8 -46 l9 52 l6 -18 q6 -8 13 -2 l6 14 h14 l8 -46 l9 52 l6 -18 q6 -8 13 -2" stroke="#2a5ea8" stroke-width="3"/>
+</svg>
